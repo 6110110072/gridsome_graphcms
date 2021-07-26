@@ -41,7 +41,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Home Page"
+    title: "Bird Shop Page"
   },
 
   data() {

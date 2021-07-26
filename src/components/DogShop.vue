@@ -42,7 +42,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Home Page"
+    title: "Dog Shop Pag"
   },
   data() {
     return {
